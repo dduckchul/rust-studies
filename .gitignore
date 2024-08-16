@@ -1,0 +1,11 @@
+# Cargo
+target/
+Cargo.lock
+
+# Rust
+*.rs.bk
+
+# 기타
+.DS_Store
+*.log
+*.tmp
